@@ -1,6 +1,6 @@
 # EXERCISE-DEPLOYING-RUNTIME-PACKAGE
 
-##This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
+## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 Deploy the runtime package on the CPU.
 
