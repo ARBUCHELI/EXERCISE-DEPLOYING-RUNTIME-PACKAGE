@@ -19,3 +19,5 @@ Be sure to try the following:
 * Install the dependencies present in the /openvino/install_dependencies folder of the uncompressed runtime package
 * Source the OpenVINO Environment present in /bin/setupvars.sh
 * Deploy the application on the CPU on this workspace
+
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
