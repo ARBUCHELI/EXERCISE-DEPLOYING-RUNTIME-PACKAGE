@@ -11,7 +11,7 @@ The runtime package of the <code>vtune_project</code> has already been uploaded 
 
 You will find detailed instructions on how to deploy your runtime package [here](https://docs.openvinotoolkit.org/latest/_docs_install_guides_deployment_manager_tool.html).
 
-Don't forge to source the OpenVINO environment.
+Don't forget to source the OpenVINO environment.
 
 Be sure to try the following:
 
@@ -19,5 +19,10 @@ Be sure to try the following:
 * Install the dependencies present in the /openvino/install_dependencies folder of the uncompressed runtime package
 * Source the OpenVINO Environment present in /bin/setupvars.sh
 * Deploy the application on the CPU on this workspace
+
+![image1](
+![image2](
+![image3](
+![image4](
 
 ## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
