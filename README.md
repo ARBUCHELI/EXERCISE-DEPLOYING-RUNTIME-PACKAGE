@@ -20,9 +20,9 @@ Be sure to try the following:
 * Source the OpenVINO Environment present in /bin/setupvars.sh
 * Deploy the application on the CPU on this workspace
 
-![image1](
-![image2](
-![image3](
-![image4](
+![image1](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-DEPLOYING-RUNTIME-PACKAGE/master/dep1.jpg)
+![image2](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-DEPLOYING-RUNTIME-PACKAGE/master/dep2.jpg)
+![image3](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-DEPLOYING-RUNTIME-PACKAGE/master/dep3.jpg)
+![image4](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-DEPLOYING-RUNTIME-PACKAGE/master/dep4.jpg)
 
 ## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
